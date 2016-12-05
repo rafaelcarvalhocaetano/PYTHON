@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69e57ddc-b0c9-4d63-8370-53889c7f491c" name="Default" comment="" />
+    <list default="true" id="dad35126-b6b9-405d-94c4-c8f39aaa2001" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,11 +15,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="lista.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lista.py">
+      <file leaf-file-name="estrutura_de_dados.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/estrutura_de_dados.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+            <state relative-caret-position="119">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -37,12 +37,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/lista.py" />
+        <option value="$PROJECT_DIR$/estrutura_de_dados.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="620" />
+    <option name="x" value="714" />
     <option name="width" value="675" />
     <option name="height" value="728" />
   </component>
@@ -62,21 +62,21 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Python_35_lista" />
+              <option name="myItemId" value="Python_36_lista_pilha_array_set" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Python_35_lista" />
+              <option name="myItemId" value="Python_36_lista_pilha_array_set" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -94,7 +94,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python_35_lista" />
+      <module name="Python_36_lista_pilha_array_set" />
       <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -109,7 +109,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python_35_lista" />
+      <module name="Python_36_lista_pilha_array_set" />
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Attests">
@@ -121,7 +121,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python_35_lista" />
+      <module name="Python_36_lista_pilha_array_set" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
@@ -140,7 +140,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python_35_lista" />
+      <module name="Python_36_lista_pilha_array_set" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
@@ -159,7 +159,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python_35_lista" />
+      <module name="Python_36_lista_pilha_array_set" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
@@ -180,7 +180,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python_35_lista" />
+      <module name="Python_36_lista_pilha_array_set" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
@@ -202,7 +202,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python_35_lista" />
+      <module name="Python_36_lista_pilha_array_set" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
@@ -223,16 +223,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="69e57ddc-b0c9-4d63-8370-53889c7f491c" name="Default" comment="" />
-      <created>1480979809547</created>
+      <changelist id="dad35126-b6b9-405d-94c4-c8f39aaa2001" name="Default" comment="" />
+      <created>1480980297230</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1480979809547</updated>
+      <updated>1480980297230</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="620" y="0" width="675" height="728" extended-state="0" />
+    <frame x="714" y="0" width="675" height="728" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24886191" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -262,10 +262,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lista.py">
+    <entry file="file://$PROJECT_DIR$/estrutura_de_dados.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
