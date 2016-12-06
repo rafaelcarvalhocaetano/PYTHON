@@ -31,5 +31,6 @@ while True:
         break
     if valor in cores:
         print("A cor ", valor, "Esta cor está contida")
+        print()
     else:
         print("Não está contida")
