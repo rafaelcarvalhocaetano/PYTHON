@@ -1,0 +1,8 @@
+print("====Operadores AND - OR - IN=====")
+print(3 in range(1,6))
+print(list(range(1,6)))
+print()
+print(3 and 5 in range(1,6))
+x = ((1 and 4) or (2 and 6) in range(1,6))
+print(x)
+print((1 and 4)in range(1,5))
