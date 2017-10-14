@@ -7,7 +7,9 @@ sindicato = (valorBruto * 5) / 100
 
 print("\n-------------SALÁRIO BRUTO---------------")
 
-print("SALÁRIO BRUTO\t\t\t{:.2f} ".format(valorBruto))
+print("SALÁRIO BRUTO      \t\t\t\t{:.2f}R$ ".format(valorBruto))
+print("HORAS TRABALHADA   \t\t\t\t{:.2f}R$ ".format(qtdHorasTrabalhada))
+print("VALOR DA HORA      \t\t\t\t{:.2f}R$ ".format(valorHora))
 
 print("\n-------------DESCONTOS---------------------")
 
@@ -30,6 +32,9 @@ else:
 print("INSS            \t\t\t\t{:.2f}R$".format(inss))
 print("IR              \t\t\t\t{:.2f}R$".format(ir))
 print("SINDICATO       \t\t\t\t{:.2f}R$".format(sindicato))
+
+print("\n-------------SALÁRIO LÍQUIDO---------------")
+
 print("SALÁRIO LIQUIDO \t\t\t\t{:.2f}R$".format(salarioLiquido))
 
 
